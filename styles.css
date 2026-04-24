@@ -293,11 +293,6 @@ body {
   color: var(--white);
 }
 
-.pillar--featured h3,
-.pillar--featured p {
-  color: var(--white) !important;
-}
-
 .pillar__icon {
   width: 48px;
   height: 48px;
@@ -321,6 +316,11 @@ body {
   font-size: 0.95rem;
   color: var(--text-muted);
   line-height: 1.7;
+}
+
+.pillar--featured h3,
+.pillar--featured p {
+  color: var(--white);
 }
 
 /* ---- GOAL ---- */
