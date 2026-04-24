@@ -295,7 +295,7 @@ body {
 
 .pillar--featured h3,
 .pillar--featured p {
-  color: var(--white);
+  color: var(--white) !important;
 }
 
 .pillar__icon {
